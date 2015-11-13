@@ -14,7 +14,7 @@ Mapzen offers the Refill style in three flavors:
 2. **[Some labels](https://github.com/tangrams/refill-style-some-labels)** - Streets, cities, and water bodies are labeled and some big parks are named only (no icons). No business labels. Good for data visualization overlays that need a to provide some location context.
 3. **No labels** (this repo) - Just the lines and polygons, please. 
 
-**Looking for a different style?** We offer a range of styles including [Refill](https://github.com/tangrams/refill) (high contrast black & white cartography) and [Zinc](https://github.com/tangrams/zinc-style) (soft gray cartography). 
+**Looking for a different style?** We offer a range of styles including [Cinnabar](https://github.com/tangrams/cinnabar-style) (colorful classic cartography) and [Zinc](https://github.com/tangrams/zinc-style) (soft gray cartography). 
 
 
 **Live Refill demo:** http://tangrams.github.io/refill-style-no-labels
