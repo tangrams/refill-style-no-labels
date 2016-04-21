@@ -4815,7 +4815,7 @@ layers:
             icons:
                 visible: false
             text-blend-order:
-                visible: true
+                visible: *text_visible_exits
                 interactive: true
                 text_source: ref
                 priority: 52
